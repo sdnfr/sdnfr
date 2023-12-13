@@ -1,13 +1,13 @@
 # Hello
 
 ## Education
-- **M.S. in Artificial Intelligence**
-- **B.Eng. in Electrical Engineering and Information Technology**
+- M.S. in Artificial Intelligence
+- B.Eng. in Electrical Engineering and Information Technology
 
 ## Experience
-### Software Engineer Working Student/Intern
-### Teaching Assistant
-### Backend Web Developer
+- Software Engineer Working Student/Intern
+- Teaching Assistant
+- Backend Web Developer
 
 
 ## Projects
