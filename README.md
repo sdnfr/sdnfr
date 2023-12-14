@@ -1,4 +1,4 @@
-# Hello
+# Welcome!
 
 ## Education
 - M.S. in Artificial Intelligence
